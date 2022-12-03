@@ -3,6 +3,10 @@ My Android custom ROMs
 all at your own risk.
 # LineageOS 18.1 for Qin F21 Pro
 
+Download:
+
+https://disk.yandex.ru/d/waxR-sMgMtdq8Q
+
 Do it yourself:
 1. Unlock Bootloader with mtkclient
 2. Download LineageOS 18.1 ARM64 AB GSI & flash it.
@@ -11,6 +15,8 @@ https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-202
 4. install Qin F21Pro treble patches
 https://github.com/AshiVered/Qin-F21Pro-treble-patches
 # Qin 1S+ Googled
+Download:
+
 https://disk.yandex.ru/d/UqnEZukosPIk-g
 
 Do it yourself:
