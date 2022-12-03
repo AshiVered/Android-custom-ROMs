@@ -12,12 +12,16 @@ https://sourceforge.net/projects/andyyan-gsi/files/lineage-18.x/lineage-18.1-202
 https://github.com/AshiVered/Qin-F21Pro-treble-patches
 # Qin 1S+ Googled
 https://disk.yandex.ru/d/UqnEZukosPIk-g
+
 Do it yourself:
+
 An explanation will follow
 # Qin F21 Pro Global (multilingual+Googled)
 Download
 https://disk.yandex.ru/d/CFozlpib5x0X2g
+
 Do it yourself:
+
 1. Unlock Bootloader with mtkclient
 2. Download 1.1.1&twrp ROM & flash it with sp flash tool.
 https://fm.mitm.top/index.php/s/MdDnY6f5s2M2tiE
