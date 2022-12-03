@@ -30,9 +30,15 @@ https://sourceforge.net/projects/opengapps/files/arm64/20220215/open_gapps-arm64
 
 # Kosher Custom ROMs
 I also prepared "kosher" ROMs for the religious and haredi communities in Israel.
+
 Qin F21Pro
+
 info:
+
 https://mitmachim.top/post/491294
+
 Nokia 8110 4G (KaiOS, not Android)
+
 info:
+
 https://mitmachim.top/post/577016
