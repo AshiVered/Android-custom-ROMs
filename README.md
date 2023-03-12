@@ -43,6 +43,14 @@ info:
 
 https://mitmachim.top/post/491294
 
+
+Qin1S+
+
+info:
+
+https://mitmachim.top/post/591672
+
+
 Nokia 8110 4G (KaiOS, not Android)
 
 info:
