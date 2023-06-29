@@ -34,6 +34,18 @@ https://fm.mitm.top/index.php/s/MdDnY6f5s2M2tiE
 https://sourceforge.net/projects/opengapps/files/arm64/20220215/open_gapps-arm64-11.0-pico-20220215.zip/download?use_mirror=master&r=&use_mirror=autoselect
 4. Modify build.prop so the device is "certified" for Google Play services.
 
+# Qin F22 Pro Global (multilingual+Googled)
+Still working on it, a link will be provided later. A temporary link can be found [here](https://forum.xda-developers.com/t/flash-xiaomi-qin-f22-pro-stock-firmware-with-google-play-with-and-without-root.4509111/post-88694601).
+
+Do it yourself:
+
+1. Unlock Bootloader with fastboot.
+2. Download NVT ROM and flash it (selcelt "Qin F22 Pro Root.txt" as scatter)
+https://drive.google.com/file/d/1gQE6MboV2jjI822cI2xdhlkxF-IvZawg/view
+3. [Install Magisk 25.2](https://github.com/topjohnwu/Magisk/releases/tag/v25.2)
+4. Install Root browser (I like MT Manager).
+5. Edit the ROM (Debloat, cleanup, restore some stock app). Still working on it, a explanation will be provided later.
+
 # Kosher Custom ROMs
 I also prepared "kosher" ROMs for the religious and haredi communities in Israel.
 
