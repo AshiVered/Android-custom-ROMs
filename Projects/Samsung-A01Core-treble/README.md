@@ -4,7 +4,7 @@ I had to learn a little how to burn GSI on this device, which does not have offi
 in short; You can burn GSI through a custom [recovery that supports fastbootd](https://github.com/AshiVered/Android-custom-ROMs/releases/tag/a01core), or with the [tar file](https://github.com/AshiVered/Android-custom-ROMs/releases/tag/a01core_super) I prepared (no tested yet).
 
 
-##Known bugs
+## Known bugs
 
 1. MTP now working
 2. wired headset not working
