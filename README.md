@@ -1,3 +1,5 @@
+![image](https://raw.githubusercontent.com/AshiVered/support-israel-banner/main/assets/support-israel-banner.jpg)
+
 # Android-custom-ROMs
 My Android custom ROMs
 all at your own risk.
