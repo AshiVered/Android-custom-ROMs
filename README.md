@@ -37,7 +37,8 @@ https://sourceforge.net/projects/opengapps/files/arm64/20220215/open_gapps-arm64
 4. Modify build.prop so the device is "certified" for Google Play services.
 
 # Qin F22 Pro Global (multilingual+Googled)
-Still working on it, a link will be provided later. A temporary link can be found [here](https://forum.xda-developers.com/t/flash-xiaomi-qin-f22-pro-stock-firmware-with-google-play-with-and-without-root.4509111/post-88694601).
+Download
+https://drive.google.com/file/d/1tYIiVguuNw9SHqGpHXmkVOX86ofu31P6/view?usp=sharing
 
 Do it yourself:
 
@@ -70,3 +71,8 @@ Nokia 8110 4G (KaiOS, not Android)
 info:
 
 https://mitmachim.top/post/577016
+
+
+# Support me
+I develop this project voluntarily, to benefit the community. But it's not an easy job with a lot of investment...
+If you want to support me, [buy me a coffee ☕](https://www.ko-fi.com/ashivered)
